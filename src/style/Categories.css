@@ -1,0 +1,23 @@
+.btns__container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.filter__btn{
+    border: none;
+    padding: 0.5rem 0.9rem;
+    font-size: 0.8rem;
+    background-color: var(--light-blue);
+    margin: 0 10px;
+    color: var(--dark);
+    border-radius: 2px;
+    text-transform: capitalize;
+    cursor: pointer;
+    transition: all 0.3s ease-in;
+}
+
+.filter__btn:hover{
+    background-color: var(--blue);
+    color: var(--light);
+}

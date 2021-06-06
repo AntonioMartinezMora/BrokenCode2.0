@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --red:#e63946;
+    --light: #f1faee;
+    --light-blue: #a8dadc;
+    --blue: #457b9d;
+    --dark: #1d3557;
+    --rgba-color:rgba(168, 218, 220, 0.3);
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    overflow-x: hidden;
+    background-color: #f6f6f6;
+}
+
