@@ -1,5 +1,5 @@
 import React from 'react';
-import './style/Categories.css';
+import '../style/Categories.css';
 
 const Categories = ({categories, filterItems}) => {
     return (

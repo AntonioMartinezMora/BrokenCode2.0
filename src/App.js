@@ -1,31 +1,30 @@
 import React, {useEffect, useState} from 'react';
-import Projects from './Projects';
-import Categories from './Categories';
-import './style/app.css';
-import data from './data.json'
-
-const allCategories = ['all', ...new Set(data.map((item)=> item.category))];
+import { useGlobalContext } from './context';
+import { BrowserRouter, BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import './style/app.css'; 
+// Import Pages
+import SingleProject from './pages/SingleProject';
+import Error from './pages/Error';
+import Home from './pages/Home';
 
 function App() {
-  const [projectsList, setProjectList] = useState(data);
-  const [categories, setCategories] = useState(allCategories);
+  const {categories, filterItems, projectsList} = useGlobalContext()
 
-  const filterItems = (category) => {
-    if(category === "all"){
-      setProjectList(data);
-      return;
-    }
-
-    const newItems = data.filter((item) => 
-    item.category === category)
-    setProjectList(newItems);
-  }
-
-  return <main>
-    <h2>Broken Code</h2>
-    <Categories categories={categories} filterItems={filterItems}/>
-    <Projects items={projectsList}/>
-  </main>
-}
+  return(
+    <BrowserRouter>
+      <Switch>
+        <Route exact path="/">
+          <Home />
+        </Route>
+        <Route path="/project/:id">
+          <SingleProject />
+        </Route>
+        <Route path="*" >
+          <Error />
+        </Route>
+      </Switch>
+    </BrowserRouter>
+  ) 
+} 
 
 export default App;
