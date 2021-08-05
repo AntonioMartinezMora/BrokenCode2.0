@@ -20,10 +20,11 @@ const AppProvider = ({children}) => {
       setProjectList(newItems);
     }
 
+
     return <AppContext.Provider value={{
         filterItems,
         categories,
-        projectsList
+        projectsList,
     }}>
         {children}
     </AppContext.Provider>

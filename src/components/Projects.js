@@ -1,13 +1,20 @@
 import React from 'react';
+import {Link} from 'react-router-dom'
 import '../style/Projects.css';
+import { useGlobalContext } from '../context'; 
 
 const Projects = ({items}) => {
+    const {displayProject} = useGlobalContext()
 
   return (
   <div className="list__container">
       {items.sort((a,b) => 0.5 - Math.random()).map((project) => {
         const {id, title, background, html, css, js} = project;
-        return<div className="card" key={id}>
+        return<Link 
+            to={`/project/${id}`} 
+            className="card" key={id}
+            onClick={displayProject}
+        >
             <div className="card__img"> 
                 <img src={background} className="card__thum" />
             </div>
@@ -21,7 +28,7 @@ const Projects = ({items}) => {
                     </div>
                 </div>
             </div>
-        </div>
+        </Link>
       })}
   </div>
   );
