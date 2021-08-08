@@ -9,7 +9,6 @@ function Home() {
   const {categories, filterItems, projectsList} = useGlobalContext()
 
   return<main>
-        <h2>Broken Code</h2>
         <Categories categories={categories} filterItems={filterItems}/>
         <Projects items={projectsList}/>
     </main>

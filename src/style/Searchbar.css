@@ -1,0 +1,6 @@
+input{
+    padding: 5px 10px;
+    border: var(--light-blue) 1px solid;
+    width: 30vw;
+    outline: none;
+}

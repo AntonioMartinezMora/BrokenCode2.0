@@ -1,7 +1,7 @@
-import { tSNamedTupleMember } from "@babel/types";
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import data from '../data.json'
+import '../style/app.css'; 
 
 const BlogDetails = () => {
     const { id } = useParams()
@@ -25,9 +25,9 @@ const BlogDetails = () => {
         })}
     }, [id])
 
-    useEffect(() =>{
-        console.log(project)
-    },[project])
+    // useEffect(() =>{
+    //     console.log(project)
+    // },[project])
 
     const {title, description} = project
 

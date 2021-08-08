@@ -1,10 +1,18 @@
 import React from 'react';
 import {Link} from 'react-router-dom'
 import '../style/Projects.css';
-import { useGlobalContext } from '../context'; 
+// import { useGlobalContext } from '../context'; 
 
 const Projects = ({items}) => {
-    const {displayProject} = useGlobalContext()
+  if(items.length < 1){
+      return (
+          <div className="list__container">
+            <h2>
+                Aqui no hay nada hombre
+            </h2>
+          </div>
+      )
+  }
 
   return (
   <div className="list__container">
@@ -13,7 +21,7 @@ const Projects = ({items}) => {
         return<Link 
             to={`/project/${id}`} 
             className="card" key={id}
-            onClick={displayProject}
+            // onClick={displayProject}
         >
             <div className="card__img"> 
                 <img src={background} className="card__thum" />

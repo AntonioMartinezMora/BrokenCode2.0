@@ -8,6 +8,7 @@ const allCategories = ['all', ...new Set(data.map((item)=> item.category))];
 const AppProvider = ({children}) => {
     const [projectsList, setProjectList] = useState(data);
     const [categories, setCategories] = useState(allCategories);
+    const [searchTerm, setSearchTerm] = useState('')
   
     const filterItems = (category) => {
       if(category === "all"){
@@ -21,10 +22,20 @@ const AppProvider = ({children}) => {
     }
 
 
+    useEffect(() => {
+      const newProjects = data.filter((value) =>{
+      if(value.title.toLowerCase().includes(searchTerm.toLowerCase())){
+          return value
+        }
+      })
+      setProjectList(newProjects)
+    },[searchTerm])
+
     return <AppContext.Provider value={{
         filterItems,
         categories,
         projectsList,
+        setSearchTerm
     }}>
         {children}
     </AppContext.Provider>
