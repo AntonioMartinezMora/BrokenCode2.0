@@ -1,44 +1,80 @@
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
+import {Link} from 'react-router-dom'
 import data from '../data.json'
 import '../style/app.css'; 
+import '../style/SingleProject.css'
 
-const BlogDetails = () => {
+const ProjectDetails = () => {
     const { id } = useParams()
     const curr = parseInt(id)
-    const [project, setProject] = useState({title: 'title', description: 'description'})
+    const [project, setProject] = useState(
+        {title: 'title', 
+        description: 'description'}
+    )
 
-
+    console.log(id)
     useEffect(() =>{
         {data.filter((item) =>{
             if(item.id === curr){
                 const {
                     id,
                     title,
-                    description
+                    description,
+                    image,
+                    code,
+                    link,
+                    html,
+                    css,
+                    js
                 } = item 
                 const newProj = {
-                    id, title, description
+                    id, title, description, image, code, link, html, css, js
                 }
                 setProject(newProj)
             }
         })}
     }, [id])
 
-    // useEffect(() =>{
-    //     console.log(project)
-    // },[project])
-
-    const {title, description} = project
+    const {title, description, image, code, link, html, css ,js} = project
 
     return (
-        <div>
-            <h2>{title}</h2>
-            <h2>suff</h2>
-            <h3>{id}</h3>
-            <h4>{description}</h4>
+        <div className="page__container project__page">
+            <div className="proj__img">
+                <img src={image} />
+            </div>
+            <div className="project__info">
+                <h1 className="card__title">
+                    {title}
+                </h1>
+                <div className="skills__info">
+                    <span className="info"  id="infoHtml">{html}</span>
+                    <span className="info" id="infoCss">{css}</span>
+                    <span className={`info ${js ? '' : 'hide'}`} id="infoJs">{js}</span>
+                </div>
+                <p className="project__descrip">
+                    {description}
+                </p>
+                <div className="project__btns">
+                    <a 
+                        href={code} 
+                        rel="noreferrer noopener" className="proj__btn" 
+                        id="source__btn"
+                    >
+                        Download Code
+                    </a>
+                    <a 
+                        href={link} 
+                        target="_blank" 
+                        rel="noreferrer noopener" className="proj__btn" 
+                        id="video__btn"
+                    >
+                        Go to video
+                    </a>
+                </div>
+            </div>
         </div>
     )
 }
  
-export default BlogDetails;
+export default ProjectDetails;

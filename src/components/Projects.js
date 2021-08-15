@@ -15,7 +15,7 @@ const Projects = ({items}) => {
   }
 
   return (
-  <div className="list__container">
+  <div className="list__container page__container">
       {items.sort((a,b) => 0.5 - Math.random()).map((project) => {
         const {id, title, image, html, css, js} = project;
         return<Link 

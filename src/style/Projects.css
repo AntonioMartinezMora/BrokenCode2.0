@@ -1,8 +1,6 @@
 /* LIST CONTAINER 
 *******************************/
 .list__container{
-    max-width: 1280px;
-    margin: 0 auto;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-gap: 20px;
@@ -80,7 +78,7 @@
     font-weight: 400;
     color: var(--dark);
     letter-spacing: 1px;
-    font-size: 17px;
+    font-size: 13px;
     padding: 10px;
 }
 

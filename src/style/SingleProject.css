@@ -1,0 +1,125 @@
+.project__page{
+    width: 100%;
+    display: flex;
+    margin: 2rem;
+}
+
+@media(max-width:800px){
+
+    .project__page{
+        width: 90vw;
+        flex-direction: column;
+        margin: auto;
+    }
+
+    .project__page .proj__img{
+        width: 100%;
+        height: 40vh;
+    }
+
+    .project__page .project__info{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }    
+
+    .project__info h1{
+        text-align: center;
+        margin: 1rem;
+    }
+
+    .project__info p{
+        text-align: center;
+    }
+}
+
+.proj__img{
+    width: 50%;
+    height: 50vh;
+}
+
+.proj__img img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.project__info{
+    width: 50%;
+    padding-left: 2rem;
+}
+
+.card__title{
+    margin: 0;
+    font-weight: 400;
+    color: var(--dark);
+    letter-spacing: 1px;
+    font-size: 2rem;
+    color: var(--dark);
+    text-transform: uppercase;
+}
+
+.skills__info{
+    margin: 0.5rem 0;
+}
+
+.skills__info .info:first-child{
+    margin-left: 0;
+}
+
+.skills__info .info{
+    padding: 1px 4px;
+    font-size: 1rem;
+    width: 30px;
+    height: 30px;
+    margin: 0 3px;
+}
+
+.skills__info .info.hide{
+    display: none;
+}
+
+.project__descrip{
+    color: var(--dark);
+    font-size: 1rem;
+    letter-spacing: 1px;
+    max-width: 500px;
+    margin: 1rem 0;
+}
+
+.proj__btn{
+    border: none;
+    padding: 0.5rem 1rem;
+    outline: none;
+    cursor: pointer;
+}
+
+#source__btn{
+    background-color: var(--dark);
+    color: var(--light);
+}
+
+#source__btn:hover{
+    background-color: var(--blue);
+}
+
+#source__btn a{
+    color: var(--light);
+}
+
+#video__btn{
+    background-color: transparent;
+    color: var(--red);
+    margin-left: 1rem;
+    box-shadow: 0px 0px 0px 1px var(--dark) inset;
+    color: var(--dark);
+}
+
+#video__btn:hover{
+    background-color: var(--blue);
+    box-shadow: 0px 0px 0px 0px;
+    color: var(--light);
+}
+
