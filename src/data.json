@@ -6,7 +6,7 @@
         "description":"Landing page with CSS animations and  a few lines of JavaScript. The menu will appear from outside the window and we will add an animation to the dots menu.",
         "image":"https://media.publit.io/file/w_640/BCWImgs/1_img.jpg" ,
         "code":"https://drive.google.com/uc?export=download&id=1id67zVMGJSU7VS8jZGe_zJfV46fJpHjf",
-        "link":null,
+        "link":"https://youtu.be/buCOxwFRZ6o",
         "html":"HTML",
         "css":"CSS",
         "js":"JS"
@@ -18,7 +18,7 @@
         "description":"Stacked list of questions that can be clicked to reveal or hide the answer associated with them. It works with a few lines of JS.",
         "image":"https://media.publit.io/file/w_1280/BCWImgs/2_img.jpg" ,
         "code":"https://drive.google.com/uc?export=download&id=1CQSkzgKFCFftznmrwyVR2R2lYE1y0X1Z",
-        "link":null,
+        "link":"https://youtu.be/wxPlRDBz3_c",
         "html":"HTML",
         "css":"CSS",
         "js":"JS"
@@ -30,7 +30,7 @@
         "description":"Create a custom sign up modal from scratch using HTML, CSS and JS.",
         "image":"https://media.publit.io/file/w_640/BCWImgs/0_img.jpg" ,
         "code":"https://drive.google.com/uc?export=download&id=1gyLCFUzJiixMrCgTZTAxWMN5OQbygIoI",
-        "link":null,
+        "link":"https://youtu.be/DX1m3Sf46Q0",
         "html":"HTML",
         "css":"CSS",
         "js":"JS"
@@ -42,7 +42,7 @@
         "description":"Carousel with images and use dots to navigate through them. We’ll use a few lines of JavaScript to make it work.",
         "image":"https://media.publit.io/file/w_640/BCWImgs/4_img.jpg" ,
         "code":"https://drive.google.com/uc?export=download&id=1_i533Z3j9UeGQD8HSP7K1Z7Ru9QAMcfh",
-        "link":null,
+        "link":"https://youtu.be/D5fuHBFHrWU",
         "html":"HTML",
         "css":"CSS",
         "js": "JS"     
@@ -54,7 +54,7 @@
         "description":"Make the background images throughout your web page move slower than foreground images, creating an illusion of depth on a two-dimensional site.",
         "image":"https://media.publit.io/file/w_640/BCWImgs/5_img.jpg" ,
         "code":"https://drive.google.com/uc?export=download&id=1qTPYocJ1zKWZNqfiJDD-6z_wYn_lnLxO",
-        "link":null,
+        "link":"https://youtu.be/vy0DlM5ldaw",
         "html":"HTML",
         "css":"CSS",
         "js": null     
@@ -66,7 +66,7 @@
         "description":"Code an animated sidebar menu with CSS and JavaScript. You’ll be able to expand and animate areas inside the menu for more information.",
         "image":"https://media.publit.io/file/w_640/BCWImgs/6_img.jpg" ,
         "code":"https://drive.google.com/uc?export=download&id=1y9mdM16OwsWccqTsaGKkusgBeDpinoHw",
-        "link":null,
+        "link":"https://youtu.be/v_D3LklsQa0",
         "html":"HTML",
         "css":"CSS",
         "js": "JS"     
@@ -78,7 +78,7 @@
         "description":"Design an elegant contact page and display the information about the business, a location map and contact form.",
         "image":"https://media.publit.io/file/w_640/BCWImgs/7_img.jpg" ,
         "code":"https://drive.google.com/uc?export=download&id=13BXaIQnO2QpOc3Y6lXCgAWGm5FTbsykX",
-        "link":null,
+        "link":"https://youtu.be/GOVemtXYDzM",
         "html":"HTML",
         "css":"CSS",
         "js": null     
@@ -90,7 +90,7 @@
         "description":"Expandable menu which shows and hides by changing its height without changing its position.",
         "image":"https://media.publit.io/file/w_640/BCWImgs/8_img.jpg" ,
         "code":"https://drive.google.com/uc?export=download&id=1aNZBtiB7aKyTzgxtIHbAdX2mXyUdWvuZ",
-        "link":null,
+        "link":"https://youtu.be/wmMb81K0cJg",
         "html":"HTML",
         "css":"CSS",
         "js": "JS"     
@@ -102,7 +102,7 @@
         "description":"Create a full screen image slider that dynamically opens from the side with  thumbnails to change the main image.",
         "image":"https://media.publit.io/file/w_640/BCWImgs/9_img.jpg" ,
         "code":"https://drive.google.com/uc?export=download&id=1DNswBQVCfTT2eg7xGxiyxRnjIPmZGuxG",
-        "link":null,
+        "link":"https://youtu.be/gE4CxxryPDY",
         "html":"HTML",
         "css":"CSS",
         "js": "JS"     
@@ -114,7 +114,7 @@
         "description":"Create and style a contact page with a form and contact information. It will also contain a FAQ section.",
         "image":"https://media.publit.io/file/w_640/BCWImgs/10_img.jpg" ,
         "code":"https://drive.google.com/uc?export=download&id=1P0-6HBRVGDge6F7krXFJK5MG0kc3j-uL",
-        "link":null,
+        "link":"https://youtu.be/r2IdRKGLGB0",
         "html":"HTML",
         "css":"CSS",
         "js": null     
@@ -126,7 +126,7 @@
         "description":"Responsive portfolio landing page to showcase your uis. The user will be able to preview and get more information about the uis when hovered over.",
         "image":"https://media.publit.io/file/w_640/BCWImgs/11_img.jpg" ,
         "code":"https://drive.google.com/uc?export=download&id=13vk6nGbV7RkUtuKQ1LZ45IOufVsG9h0X",
-        "link":null,
+        "link":"https://youtu.be/QRHSGR5s8Eo",
         "html":"HTML",
         "css":"CSS",
         "js": null     
@@ -138,7 +138,7 @@
         "description":"Dynamic testimonial section where the quote is shown after the user has clicked on the corresponding picture. Only active testimonial is displayed.",
         "image":"https://media.publit.io/file/w_640/BCWImgs/12_img.jpg",
         "code":"https://drive.google.com/uc?export=download&id=1P7ySMuCmIjISO0kGPgUmY6EsI-T5zojJ",
-        "link":null,
+        "link":"https://youtu.be/x3vnieEvCGo",
         "html":"HTML",
         "css":"CSS",
         "js": "JS"     
@@ -150,7 +150,7 @@
         "description":"Dual sided modern clients section to reveal client information on one side and further information when user hovers over the card.",
         "image":"https://media.publit.io/file/w_640/BCWImgs/13_img.jpg",
         "code":"https://drive.google.com/uc?export=download&id=15HPZj-swAwnvBliCipD973eqvdNaPojy",
-        "link":null,
+        "link":"https://youtu.be/HCoUgrrCn70",
         "html":"HTML",
         "css":"CSS",
         "js": null     
@@ -162,7 +162,7 @@
         "description":"Modern and clean web design landing page for a recipe searcher website. It will have an animated navigation menu and search input with select options.",
         "image":"https://media.publit.io/file/w_640/BCWImgs/14_img.jpg" ,
         "code":"https://drive.google.com/uc?export=download&id=12EHmJAgmcebWQp0jk47YP2tyQMk6px6n",
-        "link":null,
+        "link":"https://youtu.be/u8SpSGvnOLE",
         "html":"HTML",
         "css":"CSS",
         "js": "JS"      
@@ -174,7 +174,7 @@
         "description":"Full screen image slideshow and navigate through the images using the arrow icons. The thumbnails are wrapped inside a containers showing only four at a time.",
         "image":"https://media.publit.io/file/w_640/BCWImgs/15_img.jpg" ,
         "code":"https://drive.google.com/uc?export=download&id=140o1ul7Jn4WQtd35tJAA5eUaHDXnmEgx",
-        "link":null,
+        "link":"https://youtu.be/CVczLT1V3bA",
         "html":"HTML",
         "css":"CSS",
         "js": "JS"      
@@ -186,7 +186,7 @@
         "description":"Login form that requires users to choose an account type. JavaScript will generate a different message depending on the chosen option.",
         "image":"https://media.publit.io/file/w_640/BCWImgs/16_img.jpg" ,
         "code":"https://drive.google.com/uc?export=download&id=1sRmwAo7QbuYpuL7WSiReABEmaHqty3GJ",
-        "link":null,
+        "link":"https://youtu.be/wVqKNqqGC1o",
         "html":"HTML",
         "css":"CSS",
         "js":"JS"
@@ -198,7 +198,7 @@
         "description":"Pricing table page that displays the checkout with the option you chose. If you change any of the options, the new plan updates and displays the corresponding price.",
         "image":"https://media.publit.io/file/w_640/BCWImgs/17_img.jpg" ,
         "code":"https://drive.google.com/uc?export=download&id=1dKuw3vByLNVyZZXo6L31lR6zIzr6Ad21",
-        "link":null,
+        "link":"https://youtu.be/NRq7K1_bb6M",
         "html":"HTML",
         "css":"CSS",
         "js":"JS"
@@ -210,7 +210,7 @@
         "description":"Useful login card for quick switching with animation. Simple way to switch between login and forgot password area.",
         "image":"https://media.publit.io/file/w_640/BCWImgs/18_img.jpg" ,
         "code":"https://drive.google.com/uc?export=download&id=12aHl_3HTpsttRQhmLzQF_Rxe7S5_uVSo",
-        "link":null,
+        "link":"https://youtu.be/uc4ammytGP4",
         "html":"HTML",
         "css":"CSS",
         "js":"JS"
@@ -222,7 +222,7 @@
         "description":"Design a form with animated inputs and a required email field. It also has an  easily customizable auto slider.",
         "image":"https://media.publit.io/file/w_640/BCWImgs/19_img.jpg" ,
         "code":"https://drive.google.com/uc?export=download&id=1mQm50c9KXxeA19TaXmmW7F8uYEhy-NRh",
-        "link":null,
+        "link":"https://youtu.be/HFVY5LYhrPE",
         "html":"HTML",
         "css":"CSS",
         "js":"JS"
@@ -234,7 +234,7 @@
         "description":"Dynamic team members section for easy navigation and profile view. We’ll use a bit of JavaScript to navigate through the member and hide the arrows.",
         "image":"https://media.publit.io/file/w_640/BCWImgs/20_img.jpg" ,
         "code":"https://drive.google.com/uc?export=download&id=17u2guHHdIxxcCnaFyJVXykn9hNfPlY3S",
-        "link":null,
+        "link":"https://youtu.be/ZWQP3dMG2jI",
         "html":"HTML",
         "css":"CSS",
         "js": "JS"      
@@ -246,7 +246,7 @@
         "description":"Elegant animated menu that opens smoothly thanks to CSS transitions. The effect makes the menu expands first and delays display of the menu items.",
         "image":"https://media.publit.io/file/w_640/BCWImgs/21_img.jpg" ,
         "code":"https://drive.google.com/uc?export=download&id=18ZAz1WTTx9IdIYoKc64cKgydv15sQUWM",
-        "link":null,
+        "link":"https://youtu.be/hz7KtJFnUEc",
         "html":"HTML",
         "css":"CSS",
         "js": "JS"      
@@ -258,7 +258,7 @@
         "description":"Clean and elegant pure CSS blog post card design with hover effect. Clicking anywhere inside the card will take you to the post.",
         "image":"https://media.publit.io/file/w_640/BCWImgs/22_img.jpg" ,
         "code":"https://drive.google.com/uc?export=download&id=1XQmFQMsUU3lL0s6kkFzWKNVOWeu2PqzM",
-        "link":null,
+        "link":"https://youtu.be/P_-WxsYYEp8",
         "html":"HTML",
         "css":"CSS",
         "js": null     
@@ -270,7 +270,7 @@
         "description":"Code a modern and simple dropdown menu with animated effect on hover. It prompts a list of options on hover with an elegant design.",
         "image":"https://media.publit.io/file/w_640/BCWImgs/23_img.png" ,
         "code":"https://drive.google.com/uc?export=download&id=15VslGbBz_OAsLLpNoB8GCRvCOvb-6nGj",
-        "link":null,
+        "link":"https://youtu.be/gwbg0MRJUBs",
         "html":"HTML",
         "css":"CSS",
         "js": null     
@@ -282,7 +282,7 @@
         "description":"Create a slideshow that displays the progress of each slide with an animated progress bar. The slideshow autoplays and matches the progress bar length.",
         "image":"https://media.publit.io/file/w_640/Imgs/24_img.jpg" ,
         "code":"https://drive.google.com/uc?export=download&id=1SgUpxepvykE-h-DjBZXwOfTE-YCUeN6I",
-        "link":null,
+        "link":"https://youtu.be/iTIA9XbWSfY",
         "html":"HTML",
         "css":"CSS",
         "js": "JS"    
@@ -294,7 +294,7 @@
         "description":"Code a creative login page with a fashionable and unique layout. It uses animation for a smooth transition between an illustration page and the login form.",
         "image":"https://media.publit.io/file/w_640/BCWImgs/25_img.jpg" ,
         "code":"https://drive.google.com/uc?export=download&id=1Dq6NC4UBpjRCh4ytq8LYdq0jy6xLZ5Yk",
-        "link":null,
+        "link":"https://youtu.be/2eYlrAMBbiw",
         "html":"HTML",
         "css":"CSS",
         "js": "JS"      
@@ -306,7 +306,7 @@
         "description":"Landing page with a sign form that pops up automatically after 3 seconds and gives the user to option to sign up or close the form without registering.",
         "image":"https://media.publit.io/file/w_640/BCWImgs/26_img.jpg" ,
         "code":"https://drive.google.com/uc?export=download&id=1Ak9SRrF8bX95u6EgE8hVsUujzA7CIHcz",
-        "link":null,
+        "link":"https://youtu.be/0k1yDbzCOh4",
         "html":"HTML",
         "css":"CSS",
         "js": "JS"      
@@ -318,7 +318,7 @@
         "description":"Create a modern full width dropdown mega menu. It could have any type of content inside, from simple list of links to slideshows or videos.",
         "image":"https://media.publit.io/file/w_640/BCWImgs/27_img.jpg" ,
         "code":"https://drive.google.com/uc?export=download&id=1oVnOuso31-xjfAjtcVYVvXOzbWhnEPwy",
-        "link":null,
+        "link":"https://youtu.be/mx1MixMk4Tk",
         "html":"HTML",
         "css":"CSS",
         "js": null     
@@ -330,7 +330,7 @@
         "description":"Create an elegant  team member section for with smooth transition on hover  created with CSS transitions and the transform property.",
         "image":"https://media.publit.io/file/w_640/BCWImgs/28_img.jpg"  ,
         "code":"https://drive.google.com/uc?export=download&id=1njS2sHvD7sDgMlI9cu7-A-D-jnNpy183",
-        "link":null,
+        "link":"https://youtu.be/ubZaTLGHbTI",
         "html":"HTML",
         "css":"CSS",
         "js": null     
@@ -342,7 +342,7 @@
         "description":"Modern designed member section with slider that autoplays and displays the picture and member information.",
         "image":"https://media.publit.io/file/w_1280/BCWImgs/29_img.png"  ,
         "code":"https://drive.google.com/uc?export=download&id=1siLm8j8R_FKFKHuy7PpIlLhX-khYhKWz",
-        "link":null,
+        "link":"https://youtu.be/zy1fJt-JTWQ",
         "html":"HTML",
         "css":"CSS",
         "js": "JS"     
@@ -354,7 +354,7 @@
         "description":"Elegant navigation menu that on hover displays the submenu with a list of links organized by categories.",
         "image":"https://media.publit.io/file/w_640/BCWImgs/30_img.jpg"  ,
         "code":"https://drive.google.com/uc?export=download&id=1IYBq5V5oCD9tTS8UGccn9EjZczOp8s04",
-        "link":null,
+        "link":"https://youtu.be/1SbX3-7FMQs",
         "html":"HTML",
         "css":"CSS",
         "js": null     
@@ -366,7 +366,7 @@
         "description":"Modern designed contact form with floating inputs. It let user knows when the field input is empty before submitting.",
         "image":"https://media.publit.io/file/w_1280/BCWImgs/31_img.png"  ,
         "code":"https://drive.google.com/uc?export=download&id=13iNIF-X3cSkQU3VEmm1XwwXZDdlob2hI",
-        "link":null,
+        "link":"https://youtu.be/Hstzidx7hZ4",
         "html":"HTML",
         "css":"CSS",
         "js": "JS"     
@@ -378,7 +378,7 @@
         "description":"Simple but cool spinning effect applied to an illustration in order to make it spin indefinitely by using CSS animations.",
         "image":"https://media.publit.io/file/w_1280/BCWImgs/32_img.png"  ,
         "code":"https://drive.google.com/uc?export=download&id=1GVWLV41qvPEQrPee6OO332ZKTV5ybb-M",
-        "link":null,
+        "link":"https://youtu.be/owUBpufhkrY",
         "html":"HTML",
         "css":"CSS",
         "js": null     
@@ -390,7 +390,7 @@
         "description":"Minimalist and professional looking dropdown list menu. With not many lines of CSS we can achieve the animation on hover and the dropdown effect.",
         "image":"https://media.publit.io/file/w_640/BCWImgs/33_img.jpg"  ,
         "code":"https://drive.google.com/uc?export=download&id=1VgFuF7wYgc1qyoTdeyGOEK_LfIZ0d_u1",
-        "link":null,
+        "link":"https://youtu.be/i-d3wHWD1CM",
         "html":"HTML",
         "css":"CSS",
         "js": null     
@@ -402,7 +402,7 @@
         "description":"When the link is hover a background appears behind the item. Easy effect to apply by using CSS animations.",
         "image":"https://media.publit.io/file/w_1280/BCWImgs/34_img.png"  ,
         "code":"https://drive.google.com/uc?id=1D4-kMncF7BqNDXUWXvUUicr3qYsGRk-p&export=download",
-        "link":null,
+        "link":"https://youtu.be/jjDea5x_Ow8",
         "html":"HTML",
         "css":"CSS",
         "js": null     
@@ -414,7 +414,7 @@
         "description":"Price plan page that displays the prices for a monthly or yearly subscription. The user will able to preview the prices before choosing a plan.",
         "image":"https://media.publit.io/file/w_1280/BCWImgs/35_img.png"  ,
         "code":"https://drive.google.com/uc?id=1Y_7J3Cx35Ul3o8o16ODtbhak5GvDVA1D&export=download",
-        "link":null,
+        "link":"https://youtu.be/ijOjeEflGVU",
         "html":"HTML",
         "css":"CSS",
         "js": "JS"     
@@ -426,7 +426,7 @@
         "description":"Gallery created using only CSS grid. Elegant effect on hover expanding the image and giving the option to expand the image.",
         "image":"https://media.publit.io/file/w_1280/BCWImgs/36_img.jpg",
         "code":"https://drive.google.com/uc?id=1Zl-QI6mLE6WH6Z_AEE4v9AwQZYw3Q_Hp&export=download",
-        "link":null,
+        "link":"https://youtu.be/2ySDyY5GIL8",
         "html":"HTML",
         "css":"CSS",
         "js": "JS"     
@@ -438,7 +438,7 @@
         "description":"Professional looking CSS  price card. It uses the (:before) pseudo element to insert the triangle shape.",
         "image":"https://media.publit.io/file/w_1280/BCWImgs/37_img.png",
         "code":"https://drive.google.com/uc?id=1iMpAYrQO9GWGmBwRVY1TVRlnLiSkp7fJ&export=download",
-        "link":null,
+        "link":"https://youtu.be/p3xB3KeU9eE",
         "html":"HTML",
         "css":"CSS",
         "js": null     
@@ -450,7 +450,7 @@
         "description":"Animated slideshow that uses CSS animations to add the transition effect to the image and the text. A few lines to JavaScript will make it autoplay..",
         "image":"https://media.publit.io/file/w_1280/BCWImgs/38_img.jpg",
         "code":"https://drive.google.com/uc?id=1oi4ICWtaqBPF8YndZQ0SkSLlwq6HmRXy&export=download",
-        "link":null,
+        "link":"https://youtu.be/H_UeEZtDmGg",
         "html":"HTML",
         "css":"CSS",
         "js": "JS"     
@@ -462,7 +462,7 @@
         "description":"Price comparison page with toggle button to preview the different prices available before choosing one.",
         "image":"https://media.publit.io/file/w_1280/BCWImgs/39_img.png",
         "code":"https://drive.google.com/uc?id=1Se2hHcat9LyUZPfY-Eyppm0ruiRa0odi&export=download",
-        "link":null,
+        "link":"https://youtu.be/ju7NgjUOU44",
         "html":"HTML",
         "css":"CSS",
         "js": "JS"     
@@ -474,7 +474,7 @@
         "description":"Navigate through different customer feedback using the arrow for this slider. Small amount of Javascript will make it work.",
         "image":"https://media.publit.io/file/w_1280/BCWImgs/40_img.png",
         "code":"https://drive.google.com/uc?id=1vr0WvnNu-QnRWRz0GxKv-OeYYPVeb6pB&export=download",
-        "link":null,
+        "link":"https://youtu.be/NMNvGyM76J4",
         "html":"HTML",
         "css":"CSS",
         "js": "JS"     
@@ -486,7 +486,7 @@
         "description":"Fixed Navigation bar that change its appearance on scroll thanks to a few lines of Javascript.",
         "image":"https://media.publit.io/file/w_1280/BCWImgs/41_img.png",
         "code":"https://drive.google.com/uc?id=1kUJfIiEiMor7XCbyTyrPI1EaCuKdmg1T&export=download",
-        "link":null,
+        "link":"https://youtu.be/ZuHTqPzlyb4",
         "html":"HTML",
         "css":"CSS",
         "js": "JS"     
@@ -498,7 +498,7 @@
         "description":"Landing page with: Sticky Navigation Bar, picture gallery, blog post design and sign up form.",
         "image":"https://media.publit.io/file/w_1280/BCWImgs/42_img.png",
         "code":"https://drive.google.com/uc?id=1wn6jYWp26B6ecMFJRHWnVlFLc4-iG8C7&export=download",
-        "link":null,
+        "link":"https://youtu.be/Lr1okh3K6cg",
         "html":"HTML",
         "css":"CSS",
         "js": "JS" 
@@ -510,7 +510,7 @@
         "description":"Landing page with: Dropdown megamenu, product display card, instagram gallery and newsletter sign up form.",
         "image":"https://media.publit.io/file/w_1280/BCWImgs/43_img.png" ,
         "code":"https://drive.google.com/uc?id=1h1iHsCqZmKzm2IsGZgNf8-5lwNk5EcC8&export=download",
-        "link":null,
+        "link":"https://youtu.be/u8dco6D2YCo",
         "html":"HTML",
         "css":"CSS",
         "js": "JS"  
@@ -522,7 +522,7 @@
         "description":"Landing page with: Dropdown menu, price plan card, features card design and mailing list design.",
         "image":"https://media.publit.io/file/w_1280/BCWImgs/44_img.png" ,
         "code":"https://drive.google.com/uc?id=1uw5dv5jnc1LW3CCYLJT8QnIyXop4CBex&export=download",
-        "link":null,       
+        "link":"https://youtu.be/2eImeuDOuO4",       
         "html":"HTML",
         "css":"CSS",
         "js": null  
@@ -534,7 +534,7 @@
         "description":"Landing page with: Dropdown menu, modern clean design, customer testimonial slidera dn FAQ's section.",
         "image":"https://media.publit.io/file/w_1280/BCWImgs/45_img.png" ,
         "code":"https://drive.google.com/uc?id=1eW9ZEVQJdlqDFHU5NOzS01NGvTlFJy0P&export=download",  
-        "link":null,    
+        "link":"https://youtu.be/IMyasjn9EME",    
         "html":"HTML",
         "css":"CSS",
         "js": "JS"  
@@ -546,7 +546,7 @@
         "description":"Landing page with: Card on hover effect, contact form design and grid gallery.",
         "image":"https://media.publit.io/file/w_1280/BCWImgs/46_img.png" ,
         "code":"https://drive.google.com/uc?id=1No6ziundI9yHG80s2S211uNrggKRfFn4&export=download", 
-        "link":null,    
+        "link":"https://youtu.be/m2V5P3P880w",    
         "html":"HTML",
         "css":"CSS",
         "js": null  
@@ -558,7 +558,7 @@
         "description":"Landing page with: price card design, modern layout and a clean design.",
         "image":"https://media.publit.io/file/w_1280/BCWImgs/47_img.png" ,
         "code":"https://drive.google.com/uc?id=1QSugV8ha-zMF9AjA7J1mW6OchHX-F2zR&export=download", 
-        "link":null,    
+        "link":"https://youtu.be/9F07X5wVflE",    
         "html":"HTML",
         "css":"CSS",
         "js": null  
@@ -570,7 +570,7 @@
         "description":"Simple Hex Color Generator and automatically display a random HEX color that we can preview. By clicking the copy code button we can copy the HEX color into the clipboard and paste it anywhere.",
         "image":"https://media.publit.io/file/w_640/BCWImgs/48_img.png" ,
         "code":"https://drive.google.com/uc?export=download&id=1le_k029_w_MPOsytKYExRWHRx3GbfNxa",
-        "link":null,
+        "link":"https://youtu.be/DHsOjaWhgQ0",
         "html":"HTML",
         "css":"CSS",
         "js": "JS"  
@@ -582,7 +582,7 @@
         "description":"In this project we will design an elegant schedule for the week using CSS and then we’ll add the functionality with JavaScript so we can add tasks to any part of the schedule by selecting the task and then assign it. We can overwrite tasks or clear the entire schedule.",
         "image":"https://media.publit.io/file/w_1280/BCWImgs/49_img.png" ,
         "code":"https://drive.google.com/uc?export=download&id=1gFVKDHZVRcqbGaQU0phv9KAYv2jt_Npp",
-        "link":null,
+        "link":"https://youtu.be/xAyCPllpTIs",
         "html":"HTML",
         "css":"CSS",
         "js": "JS" 
