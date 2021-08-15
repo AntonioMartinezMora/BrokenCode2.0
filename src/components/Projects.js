@@ -17,14 +17,14 @@ const Projects = ({items}) => {
   return (
   <div className="list__container">
       {items.sort((a,b) => 0.5 - Math.random()).map((project) => {
-        const {id, title, background, html, css, js} = project;
+        const {id, title, image, html, css, js} = project;
         return<Link 
             to={`/project/${id}`} 
             className="card" key={id}
             // onClick={displayProject}
         >
             <div className="card__img"> 
-                <img src={background} className="card__thum" />
+                <img src={image} className="card__thum" />
             </div>
             <div className="card__content">
                 <h1 className="card__title">{title}</h1>
