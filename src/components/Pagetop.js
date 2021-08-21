@@ -8,9 +8,7 @@ import '../style/Navbar.css';
 
 const Navbar = () => {
     return (
-        <h2>
-            Page Top Info
-        </h2>
+        null
     )
 }
 

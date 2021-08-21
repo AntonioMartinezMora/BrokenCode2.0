@@ -117,3 +117,9 @@
     background-color: #ffed4b;
     color: #ffc300;
 }
+
+.recom__cont{
+    max-height: 280px;
+    /* hides the elements when screen gets smaller */
+    overflow-y: hidden;
+}

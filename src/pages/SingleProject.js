@@ -14,7 +14,7 @@ const ProjectDetails = () => {
         description: 'description'}
     )
 
-    console.log(id)
+    // console.log(id)
     useEffect(() =>{
         {data.filter((item) =>{
             if(item.id === curr){
@@ -76,6 +76,9 @@ const ProjectDetails = () => {
                     </div>
                 </div>
             </div>
+            <h3 className="secondary__title">
+                You might also like:
+            </h3>
             <Recommend />
         </div>
         

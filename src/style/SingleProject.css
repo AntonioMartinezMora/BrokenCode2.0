@@ -61,6 +61,19 @@
     text-transform: uppercase;
 }
 
+.secondary__title{
+    font-weight: 400;
+    color: var(--dark);
+    letter-spacing: 1px;
+    font-size: 1rem;
+    color: var(--dark);
+    text-transform: uppercase;
+    margin-left: 2rem;
+    background-color: var(--light-blue);
+    width: fit-content;
+    padding: 0 0.2rem;
+}
+
 .skills__info{
     margin: 0.5rem 0;
 }

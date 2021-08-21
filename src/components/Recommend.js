@@ -8,33 +8,33 @@ const Recommend = () => {
     const [width, setWidth] = useState(window.innerWidth)
     const [numItems, setNumItems] = useState(-4)
 
-    useEffect(() =>{
-        const handleResize = () =>{
-            setWidth(window.innerWidth)
-        }
-        window.addEventListener('resize', handleResize)
-        // console.log(width)
-        if(width > 1200){
-            setNumItems(-4)
-        }
-        if(width < 1200 && width > 800){
-            setNumItems(-3)
-        }
-        if(width < 800 && width > 550){
-            setNumItems(-2)
-        }
-        if(width < 500){
-            setNumItems(-1)
-        }
-        return () => {
-            window.removeEventListener('resize', handleResize)
-        }
-    },[width])
+    // useEffect(() =>{
+    //     const handleResize = () =>{
+    //         setWidth(window.innerWidth)
+    //     }
+    //     window.addEventListener('resize', handleResize)
+    //     // console.log(width)
+    //     if(width > 1200){
+    //         setNumItems(-4)
+    //     }
+    //     if(width < 1200 && width > 800){
+    //         setNumItems(-3)
+    //     }
+    //     if(width < 800 && width > 550){
+    //         setNumItems(-2)
+    //     }
+    //     if(width < 500){
+    //         setNumItems(-1)
+    //     }
+    //     return () => {
+    //         window.removeEventListener('resize', handleResize)
+    //     }
+    // },[width])
 
 
 
     return (
-    <div className="list__container page__container">
+    <div className="list__container page__container recom__cont">
         {projectsList.slice(numItems).sort((a,b) => 0.5 - Math.random()).map((project) => {
             const {id, title, image, html, css, js} = project;
             return<Link 
