@@ -6,7 +6,9 @@ import './style/app.css';
 import SingleProject from './pages/SingleProject';
 import Error from './pages/Error';
 import Home from './pages/Home';
+// Import Components
 import Navbar from './components/Navbar';
+
 
 function App() {
   const {categories, filterItems, projectsList} = useGlobalContext()

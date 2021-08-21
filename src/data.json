@@ -134,7 +134,7 @@
     {
         "id": 12,
         "category": "ui desgin",
-        "title":"Dynamic testimonial section",
+        "title":"Dynamic testimonial part",
         "description":"Dynamic testimonial section where the quote is shown after the user has clicked on the corresponding picture. Only active testimonial is displayed.",
         "image":"https://media.publit.io/file/w_640/BCWImgs/12_img.jpg",
         "code":"https://drive.google.com/uc?export=download&id=1P7ySMuCmIjISO0kGPgUmY6EsI-T5zojJ",
@@ -218,7 +218,7 @@
     {
         "id": 19,
         "category": "ui desgin",
-        "title":"Account form floating inputs",
+        "title":"Form floating inputs",
         "description":"Design a form with animated inputs and a required email field. It also has an  easily customizable auto slider.",
         "image":"https://media.publit.io/file/w_640/BCWImgs/19_img.jpg" ,
         "code":"https://drive.google.com/uc?export=download&id=1mQm50c9KXxeA19TaXmmW7F8uYEhy-NRh",
@@ -254,7 +254,7 @@
     {
         "id": 22,
         "category": "ui desgin",
-        "title":"Minimalist blog card design",
+        "title":"Minimalist blog card",
         "description":"Clean and elegant pure CSS blog post card design with hover effect. Clicking anywhere inside the card will take you to the post.",
         "image":"https://media.publit.io/file/w_640/BCWImgs/22_img.jpg" ,
         "code":"https://drive.google.com/uc?export=download&id=1XQmFQMsUU3lL0s6kkFzWKNVOWeu2PqzM",
@@ -278,7 +278,7 @@
     {
         "id": 24,
         "category": "ui desgin",
-        "title":"Slideshow with progress bar",
+        "title":"Slideshow progress bar",
         "description":"Create a slideshow that displays the progress of each slide with an animated progress bar. The slideshow autoplays and matches the progress bar length.",
         "image":"https://media.publit.io/file/w_640/Imgs/24_img.jpg" ,
         "code":"https://drive.google.com/uc?export=download&id=1SgUpxepvykE-h-DjBZXwOfTE-YCUeN6I",
@@ -326,7 +326,7 @@
     {
         "id": 28,
         "category": "ui desgin",
-        "title":"Team members with transition",
+        "title":"Transition on hover",
         "description":"Create an elegant  team member section for with smooth transition on hover  created with CSS transitions and the transform property.",
         "image":"https://media.publit.io/file/w_640/BCWImgs/28_img.jpg"  ,
         "code":"https://drive.google.com/uc?export=download&id=1njS2sHvD7sDgMlI9cu7-A-D-jnNpy183",
@@ -338,7 +338,7 @@
     {
         "id": 29,
         "category": "ui desgin",
-        "title":"Members section auto slider",
+        "title":"Section auto slider",
         "description":"Modern designed member section with slider that autoplays and displays the picture and member information.",
         "image":"https://media.publit.io/file/w_1280/BCWImgs/29_img.png"  ,
         "code":"https://drive.google.com/uc?export=download&id=1siLm8j8R_FKFKHuy7PpIlLhX-khYhKWz",
@@ -362,7 +362,7 @@
     {
         "id": 31,
         "category": "ui desgin",
-        "title":"Contact form and error display",
+        "title":"Contact form with error",
         "description":"Modern designed contact form with floating inputs. It let user knows when the field input is empty before submitting.",
         "image":"https://media.publit.io/file/w_1280/BCWImgs/31_img.png"  ,
         "code":"https://drive.google.com/uc?export=download&id=13iNIF-X3cSkQU3VEmm1XwwXZDdlob2hI",
@@ -374,7 +374,7 @@
     {
         "id": 32,
         "category": "ui desgin",
-        "title":"Spinning illustration effect",
+        "title":"Spinning illustration",
         "description":"Simple but cool spinning effect applied to an illustration in order to make it spin indefinitely by using CSS animations.",
         "image":"https://media.publit.io/file/w_1280/BCWImgs/32_img.png"  ,
         "code":"https://drive.google.com/uc?export=download&id=1GVWLV41qvPEQrPee6OO332ZKTV5ybb-M",
@@ -386,7 +386,7 @@
     {
         "id": 33,
         "category": "ui desgin",
-        "title":"Elegant dropdown list menu",
+        "title":"Dropdown list menu",
         "description":"Minimalist and professional looking dropdown list menu. With not many lines of CSS we can achieve the animation on hover and the dropdown effect.",
         "image":"https://media.publit.io/file/w_640/BCWImgs/33_img.jpg"  ,
         "code":"https://drive.google.com/uc?export=download&id=1VgFuF7wYgc1qyoTdeyGOEK_LfIZ0d_u1",
@@ -686,7 +686,7 @@
     {
         "id": 58,
         "category": "js project",
-        "title":"Build your own soccer team",
+        "title":"Build a soccer team",
         "description":"Add or remove players to build a great soccer team. You must be stick to a budget and you can only select a limited number of players.",
         "image":"https://media.publit.io/file/w_1280/BCWImgs/58_img.png" ,
         "code":"https://drive.google.com/uc?id=13Ldm5etEd5KONRRZ_oGA5MgpubtnuoPx&export=download",
