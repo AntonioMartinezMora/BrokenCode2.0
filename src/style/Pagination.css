@@ -1,0 +1,19 @@
+.pagination__nav{
+    width: fit-content;
+    margin-bottom: 2rem;
+}
+
+.pagination{
+    display: flex;
+    margin: auto;
+}
+
+.page__link{
+    color: var(--dark);
+    border: solid 1px var(--light-blue);
+    padding: 0.4rem 0.6rem;
+}
+
+.page__link:hover{
+    background-color: var(--light-blue);
+}
