@@ -12,9 +12,9 @@ function Home() {
 
   return<main>
         <Categories categories={categories} filterItems={filterItems}/>
-        <Projects items={projectsList}/>
-        {/* <Projects items={currentPosts}/> */}
-        {/* <Pagination postsPerPage={postsPerPage} totalProjects={totalProjects} paginate={paginate}/> */}
+        {/* <Projects items={projectsList}/> */}
+        <Projects items={currentPosts}/>
+        <Pagination postsPerPage={postsPerPage} totalProjects={totalProjects} paginate={paginate}/>
     </main>
   
 } 
