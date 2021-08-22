@@ -14,10 +14,13 @@ const Projects = ({items}) => {
       )
   }
 
+  function compareProjects(a,b){return b - a}
+
   return (
   <div className="list__container page__container">
-      {items.sort((a,b) => 0.5 - Math.random()).map((project) => {
+      {items.sort((a,b) => b.id - a.id).map((project) => {
         const {id, title, image, html, css, js} = project;
+        console.log(items.sort((a,b) => b - a))
         return<Link 
             to={`/project/${id}`} 
             className="card" key={id}

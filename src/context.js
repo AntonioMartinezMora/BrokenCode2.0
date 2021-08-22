@@ -6,48 +6,40 @@ const AppContext = React.createContext()
 const allCategories = ['all', ...new Set(data.map((item)=> item.category))];
 
 const AppProvider = ({children}) => {
-    const [projectsList, setProjectList] = useState(data);
-    const [categories, setCategories] = useState(allCategories);
-    const [searchTerm, setSearchTerm] = useState('')
-    const [currentPage, setCurrentPage] = useState(1)
-    const [postsPerPage, setPostsPerPage] = useState(12) 
-  
-    // Categories Filter
-    const filterItems = (category) => {
-      if(category === "all"){
-        setProjectList(data);
-        return;
-      }
-  
-      const newItems = data.filter((item) => 
-      item.category === category)
-      setProjectList(newItems);
+  const [projectsList, setProjectList] = useState(data);
+  const [categories, setCategories] = useState(allCategories);
+  const [searchTerm, setSearchTerm] = useState('')
+  // const [currentPage, setCurrentPage] = useState(1)
+  // const [postsPerPage, setPostsPerPage] = useState(60) 
+
+  // Categories Filter
+  const filterItems = (category) => {
+    if(category === "all"){
+      setProjectList(data);
+      return;
     }
 
-    // Search Box
-    useEffect(() => {
-      const newProjects = data.filter((value) =>{
-      if(value.title.toLowerCase().includes(searchTerm.toLowerCase())){
-          return value
-        }
-      })
-      setProjectList(newProjects)
-    },[searchTerm])
+    const newItems = data.filter((item) => 
+    item.category === category)
+    setProjectList(newItems);
+  }
 
-    // Pagination logic
-    const indexOfLastPost = currentPage * postsPerPage;
-    const indexOfFirstPost = indexOfLastPost - postsPerPage
-    const currentPosts = projectsList.slice(indexOfFirstPost, indexOfLastPost)
-    const totalProjects = data.length
+  // Search Box
+  useEffect(() => {
+    const newProjects = data.filter((value) =>{
+    if(value.title.toLowerCase().includes(searchTerm.toLowerCase())){
+        return value
+      }
+    })
+    setProjectList(newProjects)
+  },[searchTerm])
 
-    return <AppContext.Provider value={{
-        filterItems,
-        categories,
-        projectsList,
-        setSearchTerm,
-        currentPosts,
-        postsPerPage,
-        totalProjects
+
+  return <AppContext.Provider value={{
+      filterItems,
+      categories,
+      projectsList,
+      setSearchTerm
     }}>
         {children}
     </AppContext.Provider>

@@ -7,14 +7,14 @@ import Pagination from '../components/Pagination'
 
 
 function Home() {
-  const {categories, filterItems, projectsList, currentPosts, postsPerPage, totalProjects} = useGlobalContext()
+  const {categories, filterItems, projectsList, currentPosts, postsPerPage, totalProjects, paginate} = useGlobalContext()
 
 
   return<main>
         <Categories categories={categories} filterItems={filterItems}/>
-        {/* <Projects items={projectsList}/> */}
-        <Projects items={currentPosts}/>
-        <Pagination postsPerPage={postsPerPage} totalProjects={totalProjects}/>
+        <Projects items={projectsList}/>
+        {/* <Projects items={currentPosts}/> */}
+        {/* <Pagination postsPerPage={postsPerPage} totalProjects={totalProjects} paginate={paginate}/> */}
     </main>
   
 } 

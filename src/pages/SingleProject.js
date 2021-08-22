@@ -14,7 +14,7 @@ const ProjectDetails = () => {
         description: 'description'}
     )
 
-    // console.log(id)
+    console.log(id)
     useEffect(() =>{
         {data.filter((item) =>{
             if(item.id === curr){

@@ -12,6 +12,7 @@
     color: var(--dark);
     border: solid 1px var(--light-blue);
     padding: 0.4rem 0.6rem;
+    cursor: pointer;
 }
 
 .page__link:hover{
