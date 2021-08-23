@@ -1,7 +1,7 @@
 import React from 'react'
 // Style
 import '../style/app.css'; 
-import '../style/Terms.css'; 
+import '../style/Pages.css'; 
 
 const Terms = () => {
     return (

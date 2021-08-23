@@ -1,6 +1,6 @@
 import React, {useState, useEffect} from 'react';
 import {Link} from 'react-router-dom'
-import '../style/Projects.css';
+import '../style/Recommended.css';
 import { useGlobalContext } from '../context'; 
 
 const Recommend = () => {
@@ -34,7 +34,7 @@ const Recommend = () => {
 
 
     return (
-    <div className="list__container page__container recom__cont">
+    <div className="recom__cont">
         {projectsList.slice(numItems).sort((a,b) => 0.5 - Math.random()).map((project) => {
             const {id, title, image, html, css, js} = project;
             return<Link 
