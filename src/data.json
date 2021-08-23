@@ -1,6 +1,7 @@
 [
     {
-        "id": 1,
+        "id": "animatied-nine-menu",
+        "index": 1,
         "category": "ui desgin",
         "title":"Animated nine dots menu",
         "description":"Landing page with CSS animations and  a few lines of JavaScript. The menu will appear from outside the window and we will add an animation to the dots menu.",
@@ -12,7 +13,8 @@
         "js":"JS"
     },
     {
-        "id": 2,
+        "id": "faq-accordion",
+        "index": 2,
         "category": "ui desgin",
         "title":"FAQ Accordion Section",
         "description":"Stacked list of questions that can be clicked to reveal or hide the answer associated with them. It works with a few lines of JS.",
@@ -24,7 +26,8 @@
         "js":"JS"
     } ,   
     {
-        "id": 3,
+        "id": "sign-up-modal",
+        "index": 3,
         "category": "ui desgin",
         "title":"Sign Up Modal",
         "description":"Create a custom sign up modal from scratch using HTML, CSS and JS.",
@@ -36,7 +39,8 @@
         "js":"JS"
     },
     {
-        "id": 4,
+        "id": "carousel-navigation",
+        "index": 4,
         "category": "ui desgin",
         "title":"Carousel dots navigation",
         "description":"Carousel with images and use dots to navigate through them. We’ll use a few lines of JavaScript to make it work.",
@@ -48,7 +52,8 @@
         "js": "JS"     
     },
     {
-        "id": 5,
+        "id": "parallax-effect",
+        "index": 5,
         "category": "ui desgin",
         "title":"Parallax Effect to Website",
         "description":"Make the background images throughout your web page move slower than foreground images, creating an illusion of depth on a two-dimensional site.",
@@ -60,7 +65,8 @@
         "js": null     
     },
     {
-        "id": 6,
+        "id": "animated-website-menu",
+        "index": 6,
         "category": "ui desgin",
         "title":"Animated webside menu",
         "description":"Code an animated sidebar menu with CSS and JavaScript. You’ll be able to expand and animate areas inside the menu for more information.",
@@ -72,7 +78,8 @@
         "js": "JS"     
     },
     {
-        "id": 7,
+        "id": "contact-page-form",
+        "index": 7,
         "category": "ui desgin",
         "title":"Contact page with form",
         "description":"Design an elegant contact page and display the information about the business, a location map and contact form.",
@@ -84,7 +91,8 @@
         "js": null     
     },
     {
-        "id": 8,
+        "id": "expandable-menu",
+        "index": 8,
         "category": "ui desgin",
         "title":"Animated expandable menu",
         "description":"Expandable menu which shows and hides by changing its height without changing its position.",
@@ -96,7 +104,8 @@
         "js": "JS"     
     },
     {
-        "id": 9,
+        "id": "animated-gallery-portfolio",
+        "index": 9,
         "category": "ui desgin",
         "title":"Animated gallery portfolio",
         "description":"Create a full screen image slider that dynamically opens from the side with  thumbnails to change the main image.",
@@ -108,7 +117,8 @@
         "js": "JS"     
     },
     {
-        "id": 10,
+        "id": "contact-form-page",
+        "index": 10,
         "category": "ui desgin",
         "title":"Contact form page design",
         "description":"Create and style a contact page with a form and contact information. It will also contain a FAQ section.",
@@ -120,7 +130,8 @@
         "js": null     
     },
     {
-        "id": 11,
+        "id": "responsive-portfolio-website",
+        "index": 11,
         "category": "ui desgin",
         "title":"Responsive Portfolio Website",
         "description":"Responsive portfolio landing page to showcase your uis. The user will be able to preview and get more information about the uis when hovered over.",
@@ -132,7 +143,8 @@
         "js": null     
     },
     {
-        "id": 12,
+        "id": "dynamic-testimonial",
+        "index": 12,
         "category": "ui desgin",
         "title":"Dynamic testimonial part",
         "description":"Dynamic testimonial section where the quote is shown after the user has clicked on the corresponding picture. Only active testimonial is displayed.",
@@ -144,7 +156,8 @@
         "js": "JS"     
     },
     {
-        "id": 13,
+        "id": "clients-section",
+        "index": 13,
         "category": "ui desgin",
         "title":"Clients section with effect",
         "description":"Dual sided modern clients section to reveal client information on one side and further information when user hovers over the card.",
@@ -156,7 +169,8 @@
         "js": null     
     },
     {
-        "id": 14,
+        "id": "recipe-finder",
+        "index": 14,
         "category": "landing page",
         "title":"Recipe finder",
         "description":"Modern and clean web design landing page for a recipe searcher website. It will have an animated navigation menu and search input with select options.",
@@ -168,7 +182,8 @@
         "js": "JS"      
     },
     {
-        "id": 15,
+        "id": "full-page-slider",
+        "index": 15,
         "category": "ui desgin",
         "title":"Full page slider",
         "description":"Full screen image slideshow and navigate through the images using the arrow icons. The thumbnails are wrapped inside a containers showing only four at a time.",
@@ -180,7 +195,8 @@
         "js": "JS"      
     },
     {
-        "id": 16,
+        "id": "login-form-validation",
+        "index": 16,
         "category": "ui desgin",
         "title":"Login form with validation",
         "description":"Login form that requires users to choose an account type. JavaScript will generate a different message depending on the chosen option.",
@@ -192,7 +208,8 @@
         "js":"JS"
     },
     {
-        "id": 17,
+        "id": "pricing-table-checkout",
+        "index": 17,
         "category": "ui desgin",
         "title":"Pricing table with checkout",
         "description":"Pricing table page that displays the checkout with the option you chose. If you change any of the options, the new plan updates and displays the corresponding price.",
@@ -204,7 +221,8 @@
         "js":"JS"
     },
     {
-        "id": 18,
+        "id": "animated-forgot-password",
+        "index": 18,
         "category": "ui desgin",
         "title":"Animated forgot password",
         "description":"Useful login card for quick switching with animation. Simple way to switch between login and forgot password area.",
@@ -216,7 +234,8 @@
         "js":"JS"
     },
     {
-        "id": 19,
+        "id": "form-floating-inputs",
+        "index": 19,
         "category": "ui desgin",
         "title":"Form floating inputs",
         "description":"Design a form with animated inputs and a required email field. It also has an  easily customizable auto slider.",
@@ -228,7 +247,8 @@
         "js":"JS"
     },
     {
-        "id": 20,
+        "id": "team-members-section",
+        "index": 20,
         "category": "ui desgin",
         "title":"Team members section",
         "description":"Dynamic team members section for easy navigation and profile view. We’ll use a bit of JavaScript to navigate through the member and hide the arrows.",
@@ -240,7 +260,8 @@
         "js": "JS"      
     },
     {
-        "id": 21,
+        "id": "animated-delayed-menu",
+        "index": 21,
         "category": "ui desgin",
         "title":"Animated delayed menu",
         "description":"Elegant animated menu that opens smoothly thanks to CSS transitions. The effect makes the menu expands first and delays display of the menu items.",
@@ -252,7 +273,8 @@
         "js": "JS"      
     },
     {
-        "id": 22,
+        "id": "minimalist-blog-card",
+        "index": 22,
         "category": "ui desgin",
         "title":"Minimalist blog card",
         "description":"Clean and elegant pure CSS blog post card design with hover effect. Clicking anywhere inside the card will take you to the post.",
@@ -264,7 +286,8 @@
         "js": null     
     },
     {
-        "id": 23,
+        "id": "animated-dropdown-menu",
+        "index": 23,
         "category": "ui desgin",
         "title":"Animated dropdown menu",
         "description":"Code a modern and simple dropdown menu with animated effect on hover. It prompts a list of options on hover with an elegant design.",
@@ -276,7 +299,8 @@
         "js": null     
     },
     {
-        "id": 24,
+        "id": "slideshow-progress-bar",
+        "index": 24,
         "category": "ui desgin",
         "title":"Slideshow progress bar",
         "description":"Create a slideshow that displays the progress of each slide with an animated progress bar. The slideshow autoplays and matches the progress bar length.",
@@ -288,7 +312,8 @@
         "js": "JS"    
     },
     {
-        "id": 25,
+        "id": "animated-login-page",
+        "index": 25,
         "category": "ui desgin",
         "title":"Animated login page",
         "description":"Code a creative login page with a fashionable and unique layout. It uses animation for a smooth transition between an illustration page and the login form.",
@@ -300,7 +325,8 @@
         "js": "JS"      
     },
     {
-        "id": 26,
+        "id": "automatic-popup-form",
+        "index": 26,
         "category": "ui desgin",
         "title":"Automatic Pop-up form",
         "description":"Landing page with a sign form that pops up automatically after 3 seconds and gives the user to option to sign up or close the form without registering.",
@@ -312,7 +338,8 @@
         "js": "JS"      
     },
     {
-        "id": 27,
+        "id": "dropdown-megamenu",
+        "index": 27,
         "category": "ui desgin",
         "title":"Dropdown mega menu",
         "description":"Create a modern full width dropdown mega menu. It could have any type of content inside, from simple list of links to slideshows or videos.",
@@ -324,7 +351,8 @@
         "js": null     
     },
     {
-        "id": 28,
+        "id": "transition-hover",
+        "index": 28,
         "category": "ui desgin",
         "title":"Transition on hover",
         "description":"Create an elegant  team member section for with smooth transition on hover  created with CSS transitions and the transform property.",
@@ -336,7 +364,8 @@
         "js": null     
     },
     {
-        "id": 29,
+        "id": "section-auto-slider",
+        "index": 29,
         "category": "ui desgin",
         "title":"Section auto slider",
         "description":"Modern designed member section with slider that autoplays and displays the picture and member information.",
@@ -348,7 +377,8 @@
         "js": "JS"     
     },
     {
-        "id": 30,
+        "id": "mega-menu-submenu",
+        "index": 30,
         "category": "ui desgin",
         "title":"Mega menu with submenu",
         "description":"Elegant navigation menu that on hover displays the submenu with a list of links organized by categories.",
@@ -360,7 +390,8 @@
         "js": null     
     },
     {
-        "id": 31,
+        "id": "contact-form-error",
+        "index": 31,
         "category": "ui desgin",
         "title":"Contact form with error",
         "description":"Modern designed contact form with floating inputs. It let user knows when the field input is empty before submitting.",
@@ -372,7 +403,8 @@
         "js": "JS"     
     },
     {
-        "id": 32,
+        "id": "spinning-illustration",
+        "index": 32,
         "category": "ui desgin",
         "title":"Spinning illustration",
         "description":"Simple but cool spinning effect applied to an illustration in order to make it spin indefinitely by using CSS animations.",
@@ -384,7 +416,8 @@
         "js": null     
     },
     {
-        "id": 33,
+        "id": "dropdown-list-menu",
+        "index": 33,
         "category": "ui desgin",
         "title":"Dropdown list menu",
         "description":"Minimalist and professional looking dropdown list menu. With not many lines of CSS we can achieve the animation on hover and the dropdown effect.",
@@ -396,7 +429,8 @@
         "js": null     
     },
     {
-        "id": 34,
+        "id": "css-hover-animation",
+        "index": 34,
         "category": "ui desgin",
         "title":"CSS Hover Animation",
         "description":"When the link is hover a background appears behind the item. Easy effect to apply by using CSS animations.",
@@ -408,7 +442,8 @@
         "js": null     
     },
     {
-        "id": 35,
+        "id": "price-plan-options",
+        "index": 35,
         "category": "ui desgin",
         "title":"Price Plan with options",
         "description":"Price plan page that displays the prices for a monthly or yearly subscription. The user will able to preview the prices before choosing a plan.",
@@ -420,7 +455,8 @@
         "js": "JS"     
     },
     {
-        "id": 36,
+        "id": "css-grid-gallery",
+        "index": 36,
         "category": "ui desgin",
         "title":"CSS Grid Gallery",
         "description":"Gallery created using only CSS grid. Elegant effect on hover expanding the image and giving the option to expand the image.",
@@ -432,7 +468,8 @@
         "js": "JS"     
     },
     {
-        "id": 37,
+        "id": "price-card-design",
+        "index": 37,
         "category": "ui desgin",
         "title":"Price Cards CSS Design",
         "description":"Professional looking CSS  price card. It uses the (:before) pseudo element to insert the triangle shape.",
@@ -444,7 +481,8 @@
         "js": null     
     },
     {
-        "id": 38,
+        "id": "autoplay-slideshow",
+        "index": 38,
         "category": "ui desgin",
         "title":"Autoplay Slideshow",
         "description":"Animated slideshow that uses CSS animations to add the transition effect to the image and the text. A few lines to JavaScript will make it autoplay..",
@@ -456,7 +494,8 @@
         "js": "JS"     
     },
     {
-        "id": 39,
+        "id": "price-page-toggle",
+        "index": 39,
         "category": "ui desgin",
         "title":"Price Page with Toggle",
         "description":"Price comparison page with toggle button to preview the different prices available before choosing one.",
@@ -468,7 +507,8 @@
         "js": "JS"     
     },
     {
-        "id": 40,
+        "id": "feedback-slider",
+        "index": 40,
         "category": "ui desgin",
         "title":"Customer Feedback Slider",
         "description":"Navigate through different customer feedback using the arrow for this slider. Small amount of Javascript will make it work.",
@@ -480,7 +520,8 @@
         "js": "JS"     
     },
     {
-        "id": 41,
+        "id": "sticky-navigation",
+        "index": 41,
         "category": "ui desgin",
         "title":"Sticky Navigation Bar",
         "description":"Fixed Navigation bar that change its appearance on scroll thanks to a few lines of Javascript.",
@@ -492,7 +533,8 @@
         "js": "JS"     
     },
     {
-        "id": 42,
+        "id": "lifestyle-website",
+        "index": 42,
         "category": "landing page",
         "title":"Lifestyle Website",
         "description":"Landing page with: Sticky Navigation Bar, picture gallery, blog post design and sign up form.",
@@ -504,7 +546,8 @@
         "js": "JS" 
     },
     {
-        "id": 43,
+        "id": "makeup-store",
+        "index": 43,
         "category": "landing page",
         "title":"Makeup Store",
         "description":"Landing page with: Dropdown megamenu, product display card, instagram gallery and newsletter sign up form.",
@@ -516,7 +559,8 @@
         "js": "JS"  
     },
     {
-        "id": 44,
+        "id": "yoga-academy",
+        "index": 44,
         "category": "landing page",
         "title":"Yoga Academy",
         "description":"Landing page with: Dropdown menu, price plan card, features card design and mailing list design.",
@@ -528,7 +572,8 @@
         "js": null  
     },
     {
-        "id": 45,
+        "id": "web-service",
+        "index": 45,
         "category": "landing page",
         "title":"Web Service",
         "description":"Landing page with: Dropdown menu, modern clean design, customer testimonial slidera dn FAQ's section.",
@@ -540,7 +585,8 @@
         "js": "JS"  
     },
     {
-        "id": 46,
+        "id": "pet-care",
+        "index": 46,
         "category": "landing page",
         "title":"Pet Care",
         "description":"Landing page with: Card on hover effect, contact form design and grid gallery.",
@@ -552,7 +598,8 @@
         "js": null  
     },
     {
-        "id": 47,
+        "id": "foot-delivery",
+        "index": 47,
         "category": "landing page",
         "title":"Food Delivery Service",
         "description":"Landing page with: price card design, modern layout and a clean design.",
@@ -564,7 +611,8 @@
         "js": null  
     },
     {
-        "id": 48,
+        "id": "hex-color-generator",
+        "index": 48,
         "category": "js project",
         "title":"Hex Color Generator",
         "description":"Simple Hex Color Generator and automatically display a random HEX color that we can preview. By clicking the copy code button we can copy the HEX color into the clipboard and paste it anywhere.",
@@ -576,7 +624,8 @@
         "js": "JS"  
     },
     {
-        "id": 49,
+        "id": "weekly-schedule",
+        "index": 49,
         "category": "js project",
         "title":"Weekly Schedule",
         "description":"In this project we will design an elegant schedule for the week using CSS and then we’ll add the functionality with JavaScript so we can add tasks to any part of the schedule by selecting the task and then assign it. We can overwrite tasks or clear the entire schedule.",
@@ -588,7 +637,8 @@
         "js": "JS" 
     },
     {
-        "id": 50,
+        "id": "link-shortener",
+        "index": 50,
         "category": "js project",
         "title":"Link Shortener",
         "description":"With this JavaScript project we will be able to paste any link and short it, getting a shorter  customized version that we can copy into the clipboard and paste anywhere.",
@@ -600,7 +650,8 @@
         "js": "JS" 
     },
     {
-        "id": 51,
+        "id": "groceries-budget",
+        "index": 51,
         "category": "js project",
         "title":"Groceries Budget",
         "description":"After setting your budget you will be able to keep count of the number of items you are going to buy and the money you have left to spend.",
@@ -612,7 +663,8 @@
         "js": "JS" 
     },
     {
-        "id": 52,
+        "id": "task-list",
+        "index": 52,
         "category": "js project",
         "title":"Task List",
         "description":"Elegant and simple application to add  and manage tasks where the user will be able to edit , delete or mark the task as important or complete.",
@@ -624,7 +676,8 @@
         "js": "JS" 
     },
     {
-        "id": 53,
+        "id": "digital-watch",
+        "index": 53,
         "category": "js project",
         "title":"Digital Watch",
         "description":"Digital watch created from scratch using only CSS to give it a realistic look and a few lines of JavaScript to display the time.",
@@ -636,7 +689,8 @@
         "js": "JS" 
     },
     {
-        "id": 54,
+        "id": "live-countdown",
+        "index": 54,
         "category": "js project",
         "title":"Countdown Page",
         "description":"Landing page with live countdown. It can be used to launch a product or service on your website.",
@@ -648,7 +702,8 @@
         "js": "JS" 
     },
     {
-        "id": 55,
+        "id": "budget-app",
+        "index": 55,
         "category": "js project",
         "title":"Budget App",
         "description":"Simple budget app to keep track of money earned and spent. We can add or remove items from the list and the budget will always be updated.",
@@ -660,7 +715,8 @@
         "js": "JS" 
     },
     {
-        "id": 56,
+        "id": "traffic-lights",
+        "index": 56,
         "category": "js project",
         "title":"Traffic Lights",
         "description":"Traffic Lights created from scratch and given a realistic look using only CSS. We use JavaScript to make the lights work.",
@@ -672,7 +728,8 @@
         "js": "JS" 
     },
     {
-        "id": 57,
+        "id": "dynamic-coming-soon",
+        "index": 57,
         "category": "landing page",
         "title":"Dynamic coming soon page",
         "description":"Dynamic coming soon page with a countdown clock, background slider with navigation thumbnails and email input that shows error if there is no email.",
@@ -684,7 +741,8 @@
         "js": "JS" 
     },
     {
-        "id": 58,
+        "id": "build-soccer-team",
+        "index": 58,
         "category": "js project",
         "title":"Build a soccer team",
         "description":"Add or remove players to build a great soccer team. You must be stick to a budget and you can only select a limited number of players.",
@@ -696,7 +754,8 @@
         "js": "JS" 
     },
     {
-        "id": 59,
+        "id": "nba-trade-machine",
+        "index": 59,
         "category": "js project",
         "title":"NBA Trade Machine",
         "description":"Simple application that allows us to call a trade between two teams and check if the trade is possible. We can make the trade only if the difference between the salaries of players selected is less than 3 millions.",
@@ -708,7 +767,8 @@
         "js": "JS" 
     },
     {
-        "id": 60,
+        "id": "twitter-home-page",
+        "index": 60,
         "category": "landing page",
         "title":"Twitter Home Page",
         "description":"Twitter home page created and styled using HTML and CSS. It will contain three sections, the two sides will be fixed and the center section we will be able to scroll up and down to see the content.",

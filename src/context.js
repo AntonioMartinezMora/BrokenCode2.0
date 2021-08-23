@@ -9,8 +9,6 @@ const AppProvider = ({children}) => {
   const [projectsList, setProjectList] = useState(data);
   const [categories, setCategories] = useState(allCategories);
   const [searchTerm, setSearchTerm] = useState('')
-  const [currentPage, setCurrentPage] = useState(1)
-  const [postsPerPage, setPostsPerPage] = useState(12) 
 
   // Categories Filter
   const filterItems = (category) => {
@@ -34,24 +32,12 @@ const AppProvider = ({children}) => {
     setProjectList(newProjects)
   },[searchTerm])
 
-  // Pagination logic
-  const indexOfLastPost = currentPage * postsPerPage;
-  const indexOfFirstPost = indexOfLastPost - postsPerPage
-  const currentPosts = projectsList.slice(indexOfFirstPost, indexOfLastPost)
-  const totalProjects = data.length
-
-  // Change page 
-  const paginate = (pageNumber) => setCurrentPage(pageNumber)
 
   return <AppContext.Provider value={{
       filterItems,
       categories,
       projectsList,
       setSearchTerm,
-      currentPosts,
-      postsPerPage,
-      totalProjects,
-      paginate
     }}>
         {children}
     </AppContext.Provider>

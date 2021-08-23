@@ -1,0 +1,20 @@
+.terms__page{
+    max-width: 1200px;
+    height: 80vh;
+}
+
+.terms__page h2{
+    color: var(--dark);
+    border-bottom: 2px solid var(--dark);
+    width: fit-content;
+    margin-bottom: 1rem;
+}
+
+.terms__page p{
+    color: var(--dark);
+    font-size: 1rem;
+    letter-spacing: 1px;
+    /* max-width: 500px; */
+    margin: 1rem 0;
+}
+

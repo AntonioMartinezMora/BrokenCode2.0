@@ -8,18 +8,20 @@ import '../style/SingleProject.css'
 
 const ProjectDetails = () => {
     const { id } = useParams()
-    const curr = parseInt(id)
+    // const curr = parseInt(id)
+    const curr = id
     const [project, setProject] = useState(
         {title: 'title', 
         description: 'description'}
     )
 
-    console.log(id)
+    // console.log(index)
     useEffect(() =>{
         {data.filter((item) =>{
             if(item.id === curr){
                 const {
                     id,
+                    index,
                     title,
                     description,
                     image,
@@ -33,6 +35,7 @@ const ProjectDetails = () => {
                     id, title, description, image, code, link, html, css, js
                 }
                 setProject(newProj)
+                // console.log(index)
             }
         })}
     }, [id])

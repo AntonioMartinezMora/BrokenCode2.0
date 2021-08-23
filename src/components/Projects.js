@@ -6,19 +6,17 @@ import '../style/Projects.css';
 const Projects = ({items}) => {
   if(items.length < 1){
       return (
-          <div className="list__container">
+          <div className="list__container err__container">
             <h2>
-                Aqui no hay nada hombre
+                No matches found for your search
             </h2>
           </div>
       )
   }
 
-  function compareProjects(a,b){return b - a}
-
   return (
   <div className="list__container page__container">
-      {items.sort((a,b) => b.id - a.id).map((project) => {
+      {items.sort((a,b) => 0.5 - Math.random()).map((project) => {
         const {id, title, image, html, css, js} = project;
         console.log(items.sort((a,b) => b - a))
         return<Link 

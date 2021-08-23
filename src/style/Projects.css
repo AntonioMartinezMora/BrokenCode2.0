@@ -8,6 +8,16 @@
     padding: 1rem;
 }
 
+.home__container{
+    min-height: 70vh;
+}
+
+.err__container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 @media(max-width:1200px){
 
     .list__container{
@@ -123,3 +133,4 @@
     /* hides the elements when screen gets smaller */
     overflow-y: hidden;
 }
+

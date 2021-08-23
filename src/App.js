@@ -6,8 +6,10 @@ import './style/app.css';
 import SingleProject from './pages/SingleProject';
 import Error from './pages/Error';
 import Home from './pages/Home';
+import Terms from './pages/Terms';
 // Import Components
 import Navbar from './components/Navbar';
+import Footer from './components/Footer';
 
 
 function App() {
@@ -24,10 +26,14 @@ function App() {
         <Route path="/project/:id">
           <SingleProject />
         </Route>
+        <Route path="/terms">
+          <Terms />
+        </Route>
         <Route path="*" >
           <Error />
         </Route>
       </Switch>
+      <Footer />
     </BrowserRouter>
   ) 
 } 
