@@ -22,19 +22,19 @@
 
 @media(max-width:1200px){
 
-    .list__container{
+    .main__container{
         grid-template-columns: 1fr 1fr 1fr;
     }
 }
 @media(max-width:800px){
 
-    .list__container{
+    .main__container{
         grid-template-columns: 1fr 1fr;
     }
 }
 @media(max-width:550px){
 
-    .list__container{
+    .main__container{
         grid-template-columns: 1fr;
     }
 }
