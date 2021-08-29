@@ -598,7 +598,7 @@
         "js": null  
     },
     {
-        "id": "foot-delivery",
+        "id": "food-delivery",
         "index": 47,
         "category": "landing page",
         "title":"Food Delivery Service",
@@ -778,5 +778,18 @@
         "html":"HTML",
         "css":"CSS",
         "js": "JS" 
+    },
+    {
+        "id": "coffee-store",
+        "index": 61,
+        "category": "landing page",
+        "title":"Online Coffee Store",
+        "description":"Online Coffee Store with a modern layout and a minimalist design.",
+        "image":"https://media.publit.io/file/w_1280/BCWImgs/61_img.png" ,
+        "code":"https://drive.google.com/uc?id=1rhKHBty0UM2rLXOMWWhuneQqXQxoTfag&export=download", 
+        "link":"https://youtu.be/tUchAOh9VoA",    
+        "html":"HTML",
+        "css":"CSS",
+        "js": null  
     }
 ]
