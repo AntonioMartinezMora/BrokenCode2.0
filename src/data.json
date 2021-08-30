@@ -171,9 +171,9 @@
     {
         "id": "recipe-finder",
         "index": 14,
-        "category": "landing page",
+        "category": "home page",
         "title":"Recipe finder",
-        "description":"Modern and clean web design landing page for a recipe searcher website. It will have an animated navigation menu and search input with select options.",
+        "description":"Modern and clean web design home page for a recipe searcher website. It will have an animated navigation menu and search input with select options.",
         "image":"https://media.publit.io/file/w_640/BCWImgs/14_img.jpg" ,
         "code":"https://drive.google.com/uc?export=download&id=12EHmJAgmcebWQp0jk47YP2tyQMk6px6n",
         "link":"https://youtu.be/u8SpSGvnOLE",
