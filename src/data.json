@@ -791,5 +791,18 @@
         "html":"HTML",
         "css":"CSS",
         "js": null  
+    },
+    {
+        "id": "math-teacher",
+        "index": 62,
+        "category": "home page",
+        "title":"Online Math Teacher",
+        "description":"Online Math Teacher home page website with a clean and elegant design. It includes contact form and modern card design.",
+        "image":"https://media.publit.io/file/w_1280/BCWImgs/62_img.png" ,
+        "code":"https://drive.google.com/uc?id=1KOfkSQ8srGxEAcf5rCLYpFqddTnF7Pqb&export=download", 
+        "link":"https://youtu.be/tUchAOh9VoA",    
+        "html":"HTML",
+        "css":"CSS",
+        "js": null  
     }
 ]
