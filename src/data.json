@@ -817,18 +817,5 @@
         "html":"HTML",
         "css":"CSS",
         "js": "JS" 
-    },
-    {
-        "id": "household-chores",
-        "index": 64,
-        "category": "js project",
-        "title":"sample stuff",
-        "description":"sampoe stuff pa que lo veas.",
-        "image":"https://media.publit.io/file/w_1280/BCWImgs/63_img.png" ,
-        "code":"https://drive.google.com/uc?id=1TfXXi_d-sifx5DJLrTi9UM0UdlNC0pse&export=download",
-        "link":"https://youtu.be/u-GURFeSBnM",
-        "html":"HTML",
-        "css":"CSS",
-        "js": "JS" 
     }
 ]
