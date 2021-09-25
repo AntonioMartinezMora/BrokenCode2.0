@@ -817,5 +817,18 @@
         "html":"HTML",
         "css":"CSS",
         "js": "JS" 
+    },
+    {
+        "id": "dessert-recipes",
+        "index": 64,
+        "category": "js project",
+        "title":"Dessert Recipes",
+        "description":"By fetching data from a JSON file we'll create a website that will dynamically display all the recipe in the home page. We'll also be able to see the details of each of them indiviually by clicking the 'see more' button.",
+        "image":"https://media.publit.io/file/w_1280/BCWImgs/64_img.png" ,
+        "code":"https://drive.google.com/uc?id=1kwj8HsSQJm5FCB2WCFtlWOFek-mn5NsT&export=download",
+        "link":"https://youtu.be/rdtkqXtYYIw",
+        "html":"HTML",
+        "css":"CSS",
+        "js": "JS" 
     }
 ]
