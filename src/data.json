@@ -821,7 +821,7 @@
     {
         "id": "dessert-recipes",
         "index": 64,
-        "category": "js project",
+        "category": "JS project",
         "title":"Dessert Recipes",
         "description":"By fetching data from a JSON file we'll create a website that will dynamically display all the recipe in the home page. We'll also be able to see the details of each of them indiviually by clicking the 'see more' button.",
         "image":"https://media.publit.io/file/w_1280/BCWImgs/64_img.png" ,
