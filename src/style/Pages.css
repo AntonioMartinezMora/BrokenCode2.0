@@ -26,6 +26,7 @@ TERMS
 ERROR
 ************/
 
+/* displays full page and content centered */
 .full__container{
     min-height: 80vh;
     display: flex;

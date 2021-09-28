@@ -613,7 +613,7 @@
     {
         "id": "hex-color-generator",
         "index": 48,
-        "category": "js project",
+        "category": "JS project",
         "title":"Hex Color Generator",
         "description":"Simple Hex Color Generator and automatically display a random HEX color that we can preview. By clicking the copy code button we can copy the HEX color into the clipboard and paste it anywhere.",
         "image":"https://media.publit.io/file/w_640/BCWImgs/48_img.png" ,
@@ -626,7 +626,7 @@
     {
         "id": "weekly-schedule",
         "index": 49,
-        "category": "js project",
+        "category": "JS project",
         "title":"Weekly Schedule",
         "description":"In this project we will design an elegant schedule for the week using CSS and then we’ll add the functionality with JavaScript so we can add tasks to any part of the schedule by selecting the task and then assign it. We can overwrite tasks or clear the entire schedule.",
         "image":"https://media.publit.io/file/w_1280/BCWImgs/49_img.png" ,
@@ -639,7 +639,7 @@
     {
         "id": "link-shortener",
         "index": 50,
-        "category": "js project",
+        "category": "JS project",
         "title":"Link Shortener",
         "description":"With this JavaScript project we will be able to paste any link and short it, getting a shorter  customized version that we can copy into the clipboard and paste anywhere.",
         "image":"https://media.publit.io/file/w_1280/BCWImgs/50_img.png" ,
@@ -652,7 +652,7 @@
     {
         "id": "groceries-budget",
         "index": 51,
-        "category": "js project",
+        "category": "JS project",
         "title":"Groceries Budget",
         "description":"After setting your budget you will be able to keep count of the number of items you are going to buy and the money you have left to spend.",
         "image":"https://media.publit.io/file/w_1280/BCWImgs/51_img.png" ,
@@ -665,7 +665,7 @@
     {
         "id": "task-list",
         "index": 52,
-        "category": "js project",
+        "category": "JS project",
         "title":"Task List",
         "description":"Elegant and simple application to add  and manage tasks where the user will be able to edit , delete or mark the task as important or complete.",
         "image":"https://media.publit.io/file/w_1280/BCWImgs/52_img.png" ,
@@ -678,7 +678,7 @@
     {
         "id": "digital-watch",
         "index": 53,
-        "category": "js project",
+        "category": "CSS project",
         "title":"Digital Watch",
         "description":"Digital watch created from scratch using only CSS to give it a realistic look and a few lines of JavaScript to display the time.",
         "image":"https://media.publit.io/file/w_1280/BCWImgs/53_img.png" ,
@@ -691,7 +691,7 @@
     {
         "id": "live-countdown",
         "index": 54,
-        "category": "js project",
+        "category": "JS project",
         "title":"Countdown Page",
         "description":"Landing page with live countdown. It can be used to launch a product or service on your website.",
         "image":"https://media.publit.io/file/w_1280/BCWImgs/54_img.png" ,
@@ -704,7 +704,7 @@
     {
         "id": "budget-app",
         "index": 55,
-        "category": "js project",
+        "category": "JS project",
         "title":"Budget App",
         "description":"Simple budget app to keep track of money earned and spent. We can add or remove items from the list and the budget will always be updated.",
         "image":"https://media.publit.io/file/w_1280/BCWImgs/55_img.png" ,
@@ -717,7 +717,7 @@
     {
         "id": "traffic-lights",
         "index": 56,
-        "category": "js project",
+        "category": "JS project",
         "title":"Traffic Lights",
         "description":"Traffic Lights created from scratch and given a realistic look using only CSS. We use JavaScript to make the lights work.",
         "image":"https://media.publit.io/file/w_1280/BCWImgs/56_img.png" ,
@@ -743,7 +743,7 @@
     {
         "id": "build-soccer-team",
         "index": 58,
-        "category": "js project",
+        "category": "JS project",
         "title":"Build a soccer team",
         "description":"Add or remove players to build a great soccer team. You must be stick to a budget and you can only select a limited number of players.",
         "image":"https://media.publit.io/file/w_1280/BCWImgs/58_img.png" ,
@@ -756,7 +756,7 @@
     {
         "id": "nba-trade-machine",
         "index": 59,
-        "category": "js project",
+        "category": "JS project",
         "title":"NBA Trade Machine",
         "description":"Simple application that allows us to call a trade between two teams and check if the trade is possible. We can make the trade only if the difference between the salaries of players selected is less than 3 millions.",
         "image":"https://media.publit.io/file/w_1280/BCWImgs/59_img.png" ,
@@ -769,7 +769,7 @@
     {
         "id": "twitter-home-page",
         "index": 60,
-        "category": "home page",
+        "category": "CSS project",
         "title":"Twitter Home Page",
         "description":"Twitter home page created and styled using HTML and CSS. It will contain three sections, the two sides will be fixed and the center section we will be able to scroll up and down to see the content.",
         "image":"https://media.publit.io/file/w_1280/BCWImgs/60_img.png" ,
@@ -808,7 +808,7 @@
     {
         "id": "household-chores",
         "index": 63,
-        "category": "js project",
+        "category": "JS project",
         "title":"Household Chores",
         "description":"Code an application to manage the chores for the house. Create the chore and asign to a member of the family. Once done it can be deleted. Add as many as you want to as many people as you need.",
         "image":"https://media.publit.io/file/w_1280/BCWImgs/63_img.png" ,

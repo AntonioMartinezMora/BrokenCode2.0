@@ -6,7 +6,7 @@ import '../style/Projects.css';
 const Projects = ({items}) => {
   if(items.length < 1){
       return (
-          <div className="list__container err__container">
+          <div className="main__container err__container">
             <h2>
                 No matches found for your search
             </h2>
