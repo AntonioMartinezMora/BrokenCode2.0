@@ -830,5 +830,18 @@
         "html":"HTML",
         "css":"CSS",
         "js": "JS" 
+    },
+    {
+        "id": "online-seller",
+        "index": 65,
+        "category": "JS project",
+        "title":"Online Sales Tracker",
+        "description":"Online tool to keep track of profits from online sales. Easily customizable, add new fields like Product Cost or a small description about the the sale. Add your product to the list and expand it to see all details of the transaction.",
+        "image":"https://media.publit.io/file/w_1280/BCWImgs/65_img.png" ,
+        "code":"https://drive.google.com/uc?id=1D6EBjGHC7iC6JvOKWHOg44Q3wFmf2ZWV&export=download",
+        "link":"https://youtu.be/asqa8xM9Cik",
+        "html":"HTML",
+        "css":"CSS",
+        "js": "JS" 
     }
 ]
