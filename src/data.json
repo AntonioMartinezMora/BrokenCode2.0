@@ -843,5 +843,18 @@
         "html":"HTML",
         "css":"CSS",
         "js": "JS" 
+    },
+    {
+        "id": "tiktok-homepage",
+        "index": 66,
+        "category": "CSS project",
+        "title":"Tiktok Homepage",
+        "description":"Tiktok browser homepage created using HTML and CSS. It contains two main sections which are the sidebar with log in, suggested accounts and discover area plus the main section when we scroll through our feed.",
+        "image":"https://media.publit.io/file/w_1280/BCWImgs/66_img.png" ,
+        "code":"https://drive.google.com/uc?id=1irB1JBG3dhzP82Sz1p4orVqLZyioSauS&export=download",
+        "link":"https://youtu.be/9mO3np2Idkw",
+        "html":"HTML",
+        "css":"CSS",
+        "js": "JS" 
     }
 ]
