@@ -856,5 +856,18 @@
         "html":"HTML",
         "css":"CSS",
         "js": "JS" 
+    },
+    {
+        "id": "comment-like-video",
+        "index": 67,
+        "category": "JS project",
+        "title":"Add comment and like video",
+        "description":"Simple Javascript project to learn how to add comments to a video. It includes a counter to display how many likes the video gets. Each comment will display whether the video got a like or not.",
+        "image":"https://media.publit.io/file/w_1280/BCWImgs/67_img.png" ,
+        "code":"https://drive.google.com/uc?id=1ZaK_b7v8i1K-tIUEM9jGpGwDftqJGIo2&export=download",
+        "link":"https://youtu.be/rwsMruuHv5U",
+        "html":"HTML",
+        "css":"CSS",
+        "js": "JS" 
     }
 ]
