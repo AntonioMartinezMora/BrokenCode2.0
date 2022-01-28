@@ -869,5 +869,18 @@
         "html":"HTML",
         "css":"CSS",
         "js": "JS" 
+    },
+    {
+        "id": "testimonial-card",
+        "index": 68,
+        "category": "ui desgin",
+        "title":"Testimonial Card",
+        "description":"Design a modern looking testimonial card using only CSS. It features an elegant design that catches the viewer attention right away.",
+        "image":"https://media.publit.io/file/w_1280/BCWImgs/68_img.png" ,
+        "code":"https://drive.google.com/uc?id=1WTW65oIG1Pm1n0mMCmXU-sAfj21yVLXs&export=download",
+        "link":"https://youtu.be/1o-VHdJvYV0",
+        "html":"HTML",
+        "css":"CSS",
+        "js": null
     }
 ]
